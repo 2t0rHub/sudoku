@@ -45,7 +45,7 @@ At this point I was already satisfied with my creation, but I decided to keep pu
 Well, the next step was jumping from terminal text to a GUI. At first, I decided to use some Python libraries like *Flet* or *PyGame*, but I wasn't happy with the results. I have to say that I did not have a clear goal, so at that point I was purely testing stuff out in order to see which of those suited most what I had in mind (to make a sudoku game playable in any device).
 
 After some progress was made in PyGame, I realised that the game would be limited to be a desktop application, so I had to make a **paradigm change**. I finally had a good idea: i thought "Just make a website, everyone can acces a website on the Internet".
-I will leave this to the next chapter.
+I will leave this for the next chapter.
 
 ---
 
